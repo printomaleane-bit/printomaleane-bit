@@ -18,12 +18,6 @@ Student at Pillai College, Mumbai — working across AI/ML and full-stack develo
 | Libraries | Scikit-learn, PyTorch, TensorFlow, Keras |
 | Tools | VS Code, Jupyter, Google Colab |
 
-## Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=printomaleane-bit&show_icons=true&hide_border=true&bg_color=00000000&title_color=c9d1d9&text_color=c9d1d9&icon_color=8b949e">
-  <img src="https://github-readme-stats.vercel.app/api?username=printomaleane-bit&show_icons=true&hide_border=true&bg_color=00000000&title_color=24292f&text_color=24292f&icon_color=57606a" width="420" alt="GitHub stats">
-</picture>
 
 ## Contact
 

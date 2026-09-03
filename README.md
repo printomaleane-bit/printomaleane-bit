@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**printomaleane-bit/printomaleane-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Printo 👋
 
-Here are some ideas to get you started:
+### Developer • Builder • Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**BUILD → TEST → COMMIT → PUSH**
+
+<img src="./assets/avatar.png" width="160" alt="Printo">
+
+<br>
+
+[GitHub](https://github.com/printomaleane-bit) •
+[LinkedIn](YOUR_LINKEDIN_URL)
+
+</div>
+
+---
+
+### About Me
+
+I build practical projects, experiment with new technologies, and learn by shipping.
+
+Currently exploring **Web Development • Python • UI/UX • Developer Tools**
+
+---
+
+### Featured Projects
+
+| Project | What it does |
+|---|---|
+| 🚀 **GitHub Profile Analyzer** | Analyze GitHub profiles with interactive insights |
+| ⌨️ **TypeRush** | Gaming-style typing speed test |
+| 🇮🇳 **SchemeSaarthi** | Discover potentially relevant government schemes |
+| 📚 **StudyForge** | Adaptive study planning |
+| 🧭 **SkillRoute** | Career skill-gap & roadmap analyzer |
+
+---
+
+### Go Green GitHub
+
+> **One meaningful contribution every day.**
+
+**Build something → Ship it → Learn → Repeat**
+
+---
+
+### Tech Stack
+
+`Python` `JavaScript` `TypeScript` `React` `Next.js`  
+`Tailwind CSS` `Streamlit` `Git` `GitHub`
+
+---
+
+<div align="center">
+
+### Keep building. Keep shipping. 🌱
+
+**GO GREEN.**
+
+</div>

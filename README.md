@@ -11,7 +11,7 @@
 <br>
 
 [GitHub](https://github.com/printomaleane-bit) •
-[LinkedIn]((https://www.linkedin.com/in/printo-maleane-566062373/))
+[LinkedIn]([(https://www.linkedin.com/in/printo-maleane-566062373/)])
 
 </div>
 
